@@ -1,0 +1,8 @@
+Metric,Value
+Baseline MAE,15.545
+Dynamic ETA MAE,3.09
+Hybrid ML ETA MAE,2.107
+Baseline RMSE,17.91
+Dynamic ETA RMSE,3.868
+Hybrid ML ETA RMSE,2.398
+Hybrid ML R2,0.957
